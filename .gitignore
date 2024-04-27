@@ -1,0 +1,8 @@
+// server gitignore file 
+
+server/node_modules
+server/.env
+
+// client gitignore file
+
+client/node_modules
