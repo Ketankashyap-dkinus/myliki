@@ -1,4 +1,4 @@
-# MyLiki
+# MyLiki.com
 
 MyLiki is a social media platform where users can create personalized link pages to share their social media profiles, websites, and other online content with their followers. It provides a simple and elegant way to showcase all your links in one place.
 
