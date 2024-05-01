@@ -1,0 +1,26 @@
+// MYLIKI |---- www.myliki.com
+
+/// WHAT ------
+
+VERSION 1.0.0 --1.*.*
+
+/// Feature in web application ///
+
+1.User create profile 
+2.User our profile edit .
+3.User our profile visit count.
+4.User search and shere our and any profile other social media.
+5.User seen any user profile .
+6.User create custom url. " https://myliki.com/username
+
+
+/// ROUTES ///
+
+GET |-- myliki.com/:username                our url profile
+GET |-- myliki.com/search/:username         other user search route
+GET |-- myliki.com/myprofile                own dashboard 
+
+POST |-- myliki.com/myprofile               profile edit ROUTES
+PUT |-- myliki.com/myprofile/password
+
+GET |-- myliki.com/login
