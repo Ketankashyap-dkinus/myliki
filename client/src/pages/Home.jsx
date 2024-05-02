@@ -1,12 +1,14 @@
 import React from 'react'
-import Compare from './Services/Compare'
-import Pricing from './Services/Pricing'
+import ResetPassword from './auth/Reset'
+import Terms from './CompanyPages/Terms'
+import Contact from './Support/Contact'
+import AddLinks from '../compnents/Linkadd/Links'
 
 
 const Home = () => {
   return (
     <>
-    <Pricing/>
+      <h1><center>Home page Working ......</center></h1>
     </>
   )
 }
